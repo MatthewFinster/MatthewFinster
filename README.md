@@ -39,7 +39,7 @@ I'm **Matthew Finster**, an educator and Masters of Data Science student passion
 ---
 
 ## ⚡ Fun fact:
-I enjoy finding creative ways to connect data science and education to make learning impactful and fun! I also speak **French** as well as **English**.
+I speak **French** as well as **English** :)
 
 ---
 
