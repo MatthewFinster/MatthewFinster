@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to My GitHub!
 
-I'm **Matthew Finster**, an educator and budding data scientist passionate about learning, sharing knowledge, and solving challenging problems. I'm here to continue my skill development and to contribute to projects involving **education**, **mathematics and data**, **machine learning** and **statistical analysis**.
+I'm **Matthew Finster**, an educator and Masters of Data Science student passionate about learning, sharing knowledge, and solving challenging problems. I'm here to further my skill development and to contribute to projects involving **education**, **mathematics and data**, **machine learning** and **statistical analysis**.
 
 ---
 
@@ -12,14 +12,13 @@ I'm **Matthew Finster**, an educator and budding data scientist passionate about
 ---
 
 ## 🌱 I’m currently learning...
-- Advanced techniques in **data science** and **machine learning**.
-- Improving my proficiency in **Scala** and **Spark** for big data applications.
-- Advancing my **SQL** and **Python** skills through small projects.
+- Building interactive dashboards using SQL queries combined with Python visualizations.
+- Automating data pipelines for periodic data collection and analysis.
+- Creating predictive models or clustering algorithms for real-world datasets.
 
 ---
 
 ## 👯 I’m looking to collaborate on...
-- **Data science projects involving machine learning**.
 - **Innovative educational tools or resources for teaching mathematics**.
 - **Open-source projects that combine data analysis with impactful real-world applications**.
 
