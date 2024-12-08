@@ -7,12 +7,12 @@ I'm **Matthew Finster**, an educator and Masters of Data Science student passion
 ## 🔭 I’ve recently worked on...
 - Exploring **breast cancer sub-types** through microarray data analysis.
 - Building **Spark and Scala solutions** for scalable data processing.
-- Analyzing gene expression for differential and survival analysis.
+- Analysing **gene expression** for differential and survival analysis.
 
 ---
 
-## 🌱 I’m currently learning...
-- Building interactive dashboards using SQL queries combined with Python visualizations.
+## 🌱 I’m currently learning or furthering my skills in...
+- Building interactive dashboards using SQL queries combined with Python visualisations.
 - Automating data pipelines for periodic data collection and analysis.
 - Creating predictive models or clustering algorithms for real-world datasets.
 
