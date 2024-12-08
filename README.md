@@ -25,8 +25,11 @@ I'm **Matthew Finster**, an educator and Masters of Data Science student passion
 ---
 
 ## 💬 Ask me about...
-- Strategies for integrating data science into **educational environments**.
-- **Creative ways to teach through real-world applications**.
+- **Designing neural networks using PyTorch for image classification tasks, such as detecting different types of skin lesions (cancerous vs non-cancerous), and comparing different CNN architectures for performance.**  
+- **Conducting a microarray data analysis using the Bioconductor package in R to identify key biomarkers in breast cancer research, including PCA, cluster analysis, and survival modelling.**  
+- **Exploring spatial clustering in R to analyse geographic data and uncover spatial patterns.**  
+- **Extending or reviewing meta-analyses using R, such as investigating the effects of physical exercise on telomere length.**  
+- **Exploring real-world problems with Spark and Scala, such as analysing trends in social media hashtags or building scalable data workflows.**
 
 ---
 
