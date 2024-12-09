@@ -13,13 +13,11 @@ I'm **Matthew Finster**, an educator and Masters of Data Science student passion
 
 ## 🌱 I’m currently learning or furthering my skills in...
 - Building interactive dashboards using SQL queries combined with Python visualisations.
-- Automating data pipelines for periodic data collection and analysis.
-- Creating predictive models or clustering algorithms for real-world datasets.
 
 ---
 
 ## 👯 I’m looking to collaborate on...
-- **Any open-source projects that combine data analysis with impactful real-world applications**.
+- **Any open-source projects that combine data analysis with impactful real-world applications, particularly those in education, agriculture, health or sport**.
 - **Innovative educational tools or resources for teaching mathematics**.
 
 ---
