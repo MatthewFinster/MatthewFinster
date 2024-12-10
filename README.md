@@ -16,9 +16,9 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 ---
 
 ### 📂 Featured Repositories
-- 🔬 **[Microarray Breast Cancer Analysis](https://github.com/MatthewFinster/BreastCancerSubtypeAnalysis)**: Analysis of gene expression data to identify subgroups and survival indicators.
-- 🖼️ **[Skin Lesion Classification](https://github.com/MatthewFinster/SkinLesionCNNClassification)**: A CNN model for multi-class classification of skin lesions, tackling data imbalance and achieving competitive metrics.
-- 📈 **[Meta-Analysis Review and Extension](https://github.com/MatthewFinster/MetaAnalysisReviewExtension)**: A thorough review and extension of a meta-analysis on exercise and telomere length.
+- 🔬 **[Microarray Breast Cancer analysis](https://github.com/MatthewFinster/BreastCancerSubtypeAnalysis)**: Analysis of gene expression data to identify subgroups and survival indicators.
+- 🖼️ **[Multi-class classification problem](https://github.com/MatthewFinster/NNs-and-CNNs-for-Image-Classification)**: Exploring neural networks (NNs) and convolutional neural networks (CNNs) for a multi-class classification task using the MNIST dataset, including hyperparameter tuning.
+- 📈 **[Meta-analysis review and extension](https://github.com/MatthewFinster/MetaAnalysisReviewExtension)**: A thorough review and extension of a meta-analysis on exercise and telomere length.
 ---
 
 ### 🌟 Skills and Strengths
