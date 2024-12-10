@@ -7,8 +7,8 @@ Hi there, I'm **Matt**! 👋 I'm a **data enthusiast** and a constant learner pa
 ### 🚀 About Me
 - 📊 **Maths and Science teacher in Australia**
 - 🎓 **Master of Data Science** 2025 graduate
-- 🌱 Tackling **Kaggle competitions**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL**, and **data science**.
-- 💡 Interested in **analytics**, **data-driven storytelling**, **sports**, **agriculture**, and **education**.
+- 🌱 Tackling **Kaggle projects**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL** and **data science project management**.
+- 💡 Interested in **analytics**, **data-driven storytelling**, **education**, **agriculture**, and **sports**.
 - 🛠️ Tools I love: Python, R, SQL, Matplotlib, Spark, and Jupyter.
 - 🌟 Passionate about bridging my teaching background with data science and open to collaborative projects.
 - 🗣️ Fun fact: I can also speak **French** as well as English!
