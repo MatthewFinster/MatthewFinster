@@ -5,9 +5,9 @@ Hi there, I'm **Matt**! 👋 I'm a **data enthusiast** and a constant learner pa
 ---
 
 ### 🚀 About Me
-- 📊 **Maths and Science teacher in Australia**
-- 🎓 **Master of Data Science** 2025 graduate
-- 🌱 Tackling **Kaggle projects**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL** and **data science project management**.
+- 🔭 **Maths and Science teacher in Australia**
+- 📊 **Master of Data Science** 2025 graduate
+- 🌱 Working on **Kaggle projects**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL** and other **data science** skills.
 - 💡 Interested in **analytics**, **data-driven storytelling**, **education**, **agriculture**, and **sports**.
 - 🛠️ Tools I love: Python, R, SQL, Matplotlib, Spark, and Jupyter.
 - 🌟 Passionate about bridging my teaching background with data science and open to collaborative projects.
@@ -34,6 +34,7 @@ Hi there, I'm **Matt**! 👋 I'm a **data enthusiast** and a constant learner pa
        Why? To enhance my Python, SQL, and problem-solving skills.
 2. 🏅 Complete **three Kaggle projects**, each with a corresponding **Power BI dashboard**, by June 30, 2025, documented on GitHub.
        Why? To continue to apply my skills to data-science related projects and to learn how to effectively use Power BI, which is a tool that wasn't used through my degree.
+3. 😉 To be useful, to be honorable, to be compassionate, to have it make some difference that I have lived and lived well.
 
 ---
 
@@ -45,8 +46,6 @@ Hi there, I'm **Matt**! 👋 I'm a **data enthusiast** and a constant learner pa
 
 Thanks for visiting my GitHub! Feel free to explore my work and reach out if you'd like to collaborate. 😊
 
-_To be useful, to be honorable, to be compassionate, to have it make some difference that I have lived and lived well.
-_
 <!--
 **MatthewFinster/MatthewFinster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
