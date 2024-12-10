@@ -30,7 +30,7 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 ---
 
 ### 🎯 Current Goals
-1. 📝 Solve **250 LeetCode challenges** by June 30, 2025, and document my progress on GitHub.
+1. 📝 Solve **300 LeetCode challenges** by June 30, 2025, and document my progress on GitHub.
        Why? To enhance my Python, SQL, and problem-solving skills.
 2. 🏅 Complete **three Kaggle projects**, each with a corresponding **Power BI dashboard**, by June 30, 2025, documented on GitHub.
        Why? To continue to apply my skills to data-science related projects and to learn how to effectively use Power BI, which is a tool that wasn't used through my degree.
@@ -41,7 +41,7 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthewfinster/)
 - 🏅 [LeetCode](https://leetcode.com/u/datawithmattfinster/)
-- 🏅 [Kaggle](https://www.kaggle.com/)
+- 🏅 [Kaggle](https://www.kaggle.com/datawithmattfinster/)
 
 ---
 
