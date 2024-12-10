@@ -5,8 +5,8 @@ Hi there, I'm **Matthew Finster**! 👋 I'm a **data enthusiast** and a constant
 ---
 
 ### 🚀 About Me
-- 🎓 **Maths and Science teacher in Australia**
-- 📊 **Master of Data Science** 2025 graduate
+- 📊 **Maths and Science teacher in Australia**
+- 🎓 **Master of Data Science** 2025 graduate
 - 🌱 Tackling **Kaggle competitions**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL**, and **data science**.
 - 💡 Interested in **analytics**, **data-driven storytelling**, **sports**, **agriculture**, and **education**.
 - 🛠️ Tools I love: Python, R, SQL, Matplotlib, Spark, and Jupyter.
