@@ -1,47 +1,52 @@
-# Hi there 👋 Welcome to My GitHub!
+# Welcome to my portfolio! 🌟
 
-I'm **Matthew Finster**, an educator and Masters of Data Science student passionate about learning, sharing knowledge, and solving challenging problems. I'm here to further my skill development and to contribute to projects involving **statistical analysis**, **data visualisation** and **machine learning**, with a particular interest in **mathematics education** and **data**.
-
----
-
-## 🔭 I’ve recently worked on...
-- Exploring **breast cancer sub-types** through microarray data analysis.
-- Building **Spark and Scala solutions** for scalable data processing.
-- Analysing **gene expression** for differential and survival analysis.
+Hi there, I'm **Matthew Finster**! 👋 I'm a **data enthusiast** and a constant learner passionate about **solving real-world problems through data**. 
 
 ---
 
-## 🌱 I’m currently learning or furthering my skills in...
-- Building interactive dashboards using SQL queries combined with Python visualisations.
+### 🚀 About Me
+- 🎓 **Maths and Science teacher in Australia**
+- 📊 **Master of Data Science** 2025 graduate
+- 🌱 Tackling **Kaggle competitions**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL**, and **data science**.
+- 💡 Interested in **analytics**, **data-driven storytelling**, **sports**, **agriculture**, and **education**.
+- 🛠️ Tools I love: Python, R, SQL, Matplotlib, Spark, and Jupyter.
+- 🌟 Passionate about bridging my teaching background with data science and open to collaborative projects.
+- 🗣️ Fun fact: I can also speak **French** as well as English!
 
 ---
 
-## 👯 I’m looking to collaborate on...
-- **Any open-source projects that combine data analysis with impactful real-world applications, particularly those in education, agriculture, health or sport**.
-- **Innovative educational tools or resources for teaching mathematics**.
+### 📂 Featured Repositories
+- 🔬 **[Microarray Breast Cancer Analysis](https://github.com/MatthewFinster/BreastCancerSubtypeAnalysis)**: Analysis of gene expression data to identify subgroups and survival indicators.
+- 🖼️ **[Skin Lesion Classification](https://github.com/MatthewFinster/SkinLesionCNNClassification)**: A CNN model for multi-class classification of skin lesions, tackling data imbalance and achieving competitive metrics.
+- 📈 **[Meta-Analysis Review and Extension](https://github.com/MatthewFinster/MetaAnalysisReviewExtension)**: A thorough review and extension of a meta-analysis on exercise and telomere length.
+---
+
+### 🌟 Skills and Strengths
+- **Languages**: Python | R | SQL  
+- **Data Science Tools**: Scikit-learn | TensorFlow | PyTorch | Spark | Scala  
+- **Visualisation**: Matplotlib
+- **Other**: Jupyter
 
 ---
 
-## 💬 Ask me about...
-- **Designing neural networks using PyTorch for image classification tasks, such as detecting different types of skin lesions (cancerous vs non-cancerous), and comparing different CNN architectures for performance.**  
-- **Conducting a microarray data analysis using the Bioconductor package in R to identify key biomarkers in breast cancer research, including PCA, cluster analysis, and survival modelling.**  
-- **Exploring spatial clustering in R to analyse geographic data and uncover spatial patterns.**  
-- **Extending or reviewing meta-analyses using R, such as investigating the effects of physical exercise on telomere length.**  
-- **Exploring real-world problems with Spark and Scala, such as analysing trends in social media hashtags or building scalable data workflows.**
+### 🎯 Current Goals
+1. 📝 Solve **100 LeetCode challenges** by June 30, 2025, and document my progress on GitHub.
+       Why? To enhance my Python, SQL, and problem-solving skills.
+2. 🏅 Complete **three Kaggle projects**, each with a corresponding **Power BI dashboard**, by June 30, 2025, documented on GitHub.
+       Why? To continue to apply my skills to data-science related projects and to learn how to effectively use Power BI, which is a tool that wasn't used through my degree.
 
 ---
 
-## 📫 How to reach me:
-- **LinkedIn**: [Matthew Finster](https://www.linkedin.com/in/matthewfinster/)
+### 🤝 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthewfinster/)
+- 🏅 [Kaggle](https://www.kaggle.com/)
 
 ---
 
-## ⚡ Fun fact:
-I speak **French** as well as **English** :)
+Thanks for visiting my GitHub! Feel free to explore my work and reach out if you'd like to collaborate. 😊
 
----
-
-
+_To be useful, to be honorable, to be compassionate, to have it make some difference that I have lived and lived well.
+_
 <!--
 **MatthewFinster/MatthewFinster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
