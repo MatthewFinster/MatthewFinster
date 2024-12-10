@@ -40,6 +40,7 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthewfinster/)
+- 🏅 [LeetCode](https://leetcode.com/u/datawithmattfinster/)
 - 🏅 [Kaggle](https://www.kaggle.com/)
 
 ---
