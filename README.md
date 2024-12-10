@@ -7,7 +7,7 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 ### 🚀 About Me
 - 🔭 **Maths and Science teacher in Australia**
 - 📊 **Master of Data Science** 2025 graduate
-- 🌱 Working on **Kaggle projects**, **LeetCode challenges**, and personal projects to refine my skills in **Python**, **SQL** and other **data science** skills.
+- 🌱 Working on **Kaggle projects**, **LeetCode challenges**, and personal projects to refine my **Python**, **SQL** and other **data science** related skills.
 - 💡 Interested in **analytics**, **data-driven storytelling**, **education**, **agriculture**, and **sports**.
 - 🛠️ Tools I love: Python, R, SQL, Matplotlib, Spark, and Jupyter.
 - 🌟 Passionate about bridging my teaching background with data science and open to collaborative projects.
