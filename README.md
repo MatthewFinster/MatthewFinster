@@ -1,4 +1,4 @@
-# Welcome to my portfolio! 🌟
+# Matthew Finster
 
 Hi there, I'm **Matthew Finster**! 👋 I'm a **data enthusiast** and a constant learner passionate about **solving real-world problems through data**. 
 
