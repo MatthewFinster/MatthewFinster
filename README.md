@@ -30,11 +30,7 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 ---
 
 ### 🎯 Current Goals
-1. 📝 Solve **300 LeetCode challenges** by June 30, 2025, and document my progress on GitHub.
-       Why? To enhance my Python, SQL, and problem-solving skills.
-2. 🏅 Complete **three Kaggle projects**, each with a corresponding **Power BI dashboard**, by June 30, 2025, documented on GitHub.
-       Why? To continue to apply my skills to data-science related projects and to learn how to effectively use Power BI, which is a tool that wasn't used through my degree.
-3. 😉 To be useful, to be honorable, to be compassionate, to have it make some difference that I have lived and lived well.
+1. 📝 By 2 Nov 2025, deliver a reproducible experimental report that uses EASL to evaluate and compare 3–4 LLMs for systematic biases (e.g., cultural, political, jurisdictional, demographic), with all prompts/outputs/annotations fully archived, and evidence-based recommendations for La Trobe on which models to use or avoid and why.
 
 ---
 
