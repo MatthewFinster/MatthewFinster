@@ -1,6 +1,6 @@
 # Data with Matt Finster
 
-Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, an aspiring **data scientist** and a constant learner passionate about **solving real-world problems through data**. 
+Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, an aspiring **data analyst** and a constant learner passionate about **solving real-world problems through data**. 
 
 ---
 
