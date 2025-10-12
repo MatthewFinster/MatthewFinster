@@ -7,11 +7,8 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 ### 🚀 About Me
 - 🔭 **Maths and Science teacher in Australia**
 - 📊 **Master of Data Science** 2025 graduate
-- 🌱 Working on **Kaggle projects**, **LeetCode challenges**, and personal projects to refine my **Python**, **SQL** and other **data science** related skills.
 - 💡 Interested in **analytics**, **data-driven storytelling**, **education**, **agriculture**, and **sports**.
-- 🛠️ Tools I love: Python, R, SQL, Matplotlib, Spark, and Jupyter.
-- 🌟 Passionate about bridging my teaching background with data science and open to collaborative projects.
-- 🗣️ Fun fact: I can also speak **French** as well as English!
+- 🌟 Seeking to bridge my teaching background with data science and open to collaborative projects.
 
 ---
 
@@ -25,7 +22,6 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 - **Languages**: Python | R | SQL  
 - **Data Science Tools**: Scikit-learn | TensorFlow | PyTorch | Spark | Scala  
 - **Visualisation**: Matplotlib
-- **Other**: Jupyter
 
 ---
 
@@ -36,24 +32,7 @@ Hi there, I'm **Matt**! 👋 I'm a **Maths and Science teacher in Australia**, a
 
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/matthewfinster/)
-- 🏅 [LeetCode](https://leetcode.com/u/datawithmattfinster/)
-- 🏅 [Kaggle](https://www.kaggle.com/datawithmattfinster/)
 
 ---
 
 Thanks for visiting my GitHub! Feel free to explore my work and reach out if you'd like to collaborate. 😊
-
-<!--
-**MatthewFinster/MatthewFinster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
